@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the contact form to be minimalist with only essential fields (Name, Email, Message), or more detailed with additional fields (Phone Number, Reason for Contact, etc.)?\", \"option1\": \"Minimalist with only essential fields\", \"option2\": \"More detailed with additional fields\"}, {\"question 2\": \"Should the new contact form include any specific integrations, such as linking to a customer relationship management (CRM) system or sending an automatic email confirmation to the user?\", \"option1\": \"Yes, integrate with a CRM system and send automatic email confirmations\", \"option2\": \"No specific integrations, just the basic form functionality\"}], \"input_token_count\": 271, \"output_token_count\": 148, \"time_taken\": \"0:00:04.395763\"}",
+        "message_id": "guest28082024144032",
+        "timestamp": "28082024144038",
+        "component_file_name": "simple_cta_component_1723829483",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I'll replace the component with a contact form.",
         "message_id": "guest28082024144032",

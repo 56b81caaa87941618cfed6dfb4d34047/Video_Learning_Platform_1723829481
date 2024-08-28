@@ -30,5 +30,11 @@
         "content": "add a button with text change",
         "timestamp": "28082024044009",
         "message_id": "guest28082024044007"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Great! Adding a button with text change for you.",
+        "timestamp": "28082024044009",
+        "message_id": "guest28082024044007"
     }
 ]

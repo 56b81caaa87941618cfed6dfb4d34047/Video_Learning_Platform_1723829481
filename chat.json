@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Great! Adding a button with text change for you.",
+        "message_id": "guest28082024044007",
+        "timestamp": "28082024044009",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a button with text change",
         "message_id": "guest28082024044007",

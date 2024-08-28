@@ -12,5 +12,11 @@
         "content": "Got it, I will add a link to the \"aboutUs\" page.",
         "timestamp": "28082024043913",
         "message_id": "guest28082024043912"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where specifically do you want the 'About Us' link to be positioned within the app\\u2019s interface?\", \"option1\": \"In the main navigation menu\", \"option2\": \"In the footer section\"}, {\"question 2\": \"Do you want the 'About Us' page to be accessible to all users, including those who are not logged in?\", \"option1\": \"Yes, accessible to everyone\", \"option2\": \"No, only accessible to logged-in users\"}], \"input_token_count\": 271, \"output_token_count\": 110, \"time_taken\": \"0:00:02.474004\"}",
+        "timestamp": "28082024043916",
+        "message_id": "guest28082024043912"
     }
 ]

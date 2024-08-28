@@ -6,5 +6,11 @@
         "timestamp": "1723829483",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Got it, I will add a link to the \"aboutUs\" page.",
+        "timestamp": "28082024043913",
+        "message_id": "guest28082024043912"
     }
 ]

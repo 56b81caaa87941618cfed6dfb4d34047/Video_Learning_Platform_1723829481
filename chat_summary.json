@@ -36,5 +36,11 @@
         "content": "Great! Adding a button with text change for you.",
         "timestamp": "28082024044009",
         "message_id": "guest28082024044007"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the new button to be positioned relative to other elements on the page?\", \"option1\": \"Below the 'About Us' link\", \"option2\": \"At the top of the page, next to the navigation menu\"}, {\"question 2\": \"What is the specific functionality you would like the button to have?\", \"option1\": \"To redirect users to a sign-up page\", \"option2\": \"To play an introductory video about the service\"}], \"input_token_count\": 300, \"output_token_count\": 110, \"time_taken\": \"0:00:04.127191\"}",
+        "timestamp": "28082024044014",
+        "message_id": "guest28082024044007"
     }
 ]

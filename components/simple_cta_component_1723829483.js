@@ -1,7 +1,7 @@
 /* Summary: This component contains a contact form with fields for name, email, and message. */
 Vue.component("simple_cta_component_1723829483", {
     template: `
-    <section id="cta-component" style="min-height: 270px"    class="bg-gray-50 dark:bg-gray-800 flex-1">
+    <section id="cta-component" style="min-height: 310px"     class="bg-gray-50 dark:bg-gray-800 flex-1">
         <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
             <div id="cta-content" class="max-w-screen-md mx-auto">
                 <h2 id="cta-title" class="mb-4 text-3xl font-extrabold text-center text-gray-900 dark:text-white">Contact Us</h2>

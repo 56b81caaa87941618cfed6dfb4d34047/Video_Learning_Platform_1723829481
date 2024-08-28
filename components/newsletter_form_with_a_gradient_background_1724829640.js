@@ -2,7 +2,7 @@
   <section class="py-28 relative">
     <div class="relative z-10 max-w-screen-xl mx-auto px-4 justify-between items-center gap-12 md:px-8 md:flex">
       <div class="flex-1 max-w-lg">
-        <h3 class="text-3xl font-bold">NEWSLETTER_TITLE_PLACEHOLDER_TEXT</h3>
+        <h3 class="text-3xl font-bold">Stay Ahead with Our Learning Video Updates</h3>
       </div>
       <div class="flex-1 mt-6 md:mt-0">
         <form class="flex items-center gap-x-3 md:justify-end w-full max-w-md mx-auto">

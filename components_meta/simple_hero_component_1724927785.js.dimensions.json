@@ -1,0 +1,18 @@
+{
+    "id": "simple_hero_component-465f0796-6a55-0bad-cd33-ace72324cc18",
+    "name": "simple_hero_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 12,
+    "h": 12,
+    "x": "100",
+    "y": "100",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}

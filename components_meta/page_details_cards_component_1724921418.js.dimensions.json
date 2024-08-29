@@ -1,0 +1,18 @@
+{
+    "id": "page_details_cards_component-1d1d92e8-e90a-3666-eeab-e1c516e4ab08",
+    "name": "page_details_cards_component",
+    "type": "containerComponent",
+    "metadata": {},
+    "w": 7,
+    "h": "50",
+    "x": "50",
+    "y": "50",
+    "i": "__dropping-elem__",
+    "minW": 3,
+    "maxW": 12,
+    "minH": 1,
+    "moved": false,
+    "static": false,
+    "isDraggable": true,
+    "isResizable": true
+}

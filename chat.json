@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I will add the cancel button as requested.",
+        "message_id": "guest29082024104515",
+        "timestamp": "29082024104517",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a cancel button",
         "message_id": "guest29082024104515",

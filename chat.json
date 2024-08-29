@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"failure\", \"qna\": [], \"error\": \"qnaExpecting ',' delimiter: line 2 column 174 (char 345)\", \"time_taken\": \"0:00:01.403028\"}",
+        "message_id": "guest29082024104515",
+        "timestamp": "29082024104518",
+        "component_file_name": "contact_form_1724928150",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will add the cancel button as requested.",
         "message_id": "guest29082024104515",

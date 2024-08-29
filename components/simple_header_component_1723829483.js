@@ -34,6 +34,9 @@ Vue.component("simple_header_component_1723829483", {
                     <button id="change-text-button" @click="changeText" class="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded shadow-md transition duration-300 ease-in-out">
                         Change Text
                     </button>
+                    <button id="submit-button" class="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded shadow-md transition duration-300 ease-in-out ml-4">
+                        Submit
+                    </button>
                 </div>
             </div>
         </nav>

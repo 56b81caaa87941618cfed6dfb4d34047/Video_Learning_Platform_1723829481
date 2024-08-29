@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nAI: Got it, I'll replace the component with a contact form.\nAI: Great! Adding a button with text change for you.\nUser: add a button with text change\nAI: Got it, I will add a link to the \"aboutUs\" page.\n\nThis is the user's current request of changes to be made:\nadd a button with text Submit"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's current request of changes to be made:\nAdd a cancel button"
     }
 ]

@@ -1,12 +1,14 @@
 {
-    "id": "page_details_cards_component-1d1d92e8-e90a-3666-eeab-e1c516e4ab08",
-    "name": "page_details_cards_component",
+    "id": "page_details_cards_component_1724921418",
+    "name": "page-details-cards-component",
     "type": "containerComponent",
-    "metadata": {},
+    "metadata": {
+        "markdownText": "<!--\nINSTRUCTION: Summary: Contains a section with three cards with black background and white text. The three cards are side by side and each contains a detail name in bold above a detail value.\n-->\n\n<template>\n  <section id=\"page-details-cards-component\" class=\"py-8 bg-white\">\n    <h2 id=\"details-title\" class=\"text-lg font-semibold mb-5 pl-4\">Details</h2>\n    <ul id=\"details-list\" class=\"grid gap-4 min-[480px]:grid-cols-3 text-sm\">\n      <li id=\"project-length\" class=\"px-5 py-4 rounded-lg bg-gradient-to-tr from-slate-950 to-slate-800 dark:from-slate-800/80 dark:to-slate-900\">\n        <div class=\"font-medium text-slate-200\">Learn Anytime</div>\n        <div class=\"text-slate-400\">Access a vast library of educational videos on-demand, allowing you to learn at your own pace and schedule.</div>\n      </li>\n      <li id=\"start-date\" class=\"px-5 py-4 rounded-lg bg-gradient-to-tr from-slate-950 to-slate-800 dark:from-slate-800/80 dark:to-slate-900\">\n        <div class=\"font-medium text-slate-200\" id=\"start-date-des-1\">Expert Instructors</div>\n        <time class=\"text-slate-400\" id=\"start-time-des-1\">Gain knowledge from industry professionals and renowned educators through our curated collection of high-quality video lessons.</time>\n      </li>\n      <li id=\"end-date\" class=\"px-5 py-4 rounded-lg bg-gradient-to-tr from-slate-950 to-slate-800 dark:from-slate-800/80 dark:to-slate-900\">\n        <div class=\"font-medium text-slate-200\" id=\"end-date-des-1\">Interactive Learning</div>\n        <time class=\"text-slate-400\" id=\"end-time-des-1\">Engage with quizzes, assignments, and discussion forums to reinforce your understanding and connect with fellow learners.</time>\n      </li>\n    </ul>\n  </section>\n</template>\n\n<script>\nexport default {\n  name: \"PageDetailsCardsComponent\",\n  data() {\n    return {\n      expanded: false,\n      tab: null,\n    };\n  },\n};\n</script>\n"
+    },
     "w": 7,
     "h": "50",
-    "x": "50",
-    "y": "50",
+    "x": 50,
+    "y": 50,
     "i": "__dropping-elem__",
     "minW": 3,
     "maxW": 12,

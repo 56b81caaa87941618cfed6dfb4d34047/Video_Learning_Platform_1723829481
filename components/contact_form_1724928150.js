@@ -64,10 +64,14 @@
             class="w-full mt-2 h-36 px-3 py-2 resize-none appearance-none bg-white border border-gray-300 focus:border-green-500 shadow-sm rounded-lg text-black"
           ></textarea>
         </div>
-        <button class="w-full px-4 py-2 text-white font-medium bg-green-600 hover:bg-green-500 active:bg-green-700 rounded-lg duration-150">
-          Any Additional Questions?
-        </button>
-      </form>
+        <div class="grid grid-cols-2 gap-4">
+          <button class="w-full px-4 py-2 text-white font-medium bg-red-600 hover:bg-red-500 active:bg-red-700 rounded-lg duration-150">
+            Cancel
+          </button>
+          <button class="w-full px-4 py-2 text-white font-medium bg-green-600 hover:bg-green-500 active:bg-green-700 rounded-lg duration-150">
+            Any Additional Questions?
+          </button>
+        </div>
     </div>
   </main>
 </template>
